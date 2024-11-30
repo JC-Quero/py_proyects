@@ -17,10 +17,6 @@ A sleek and minimalist Tic Tac Toe game built with Python's Tkinter, offering a 
 - Win and draw detection
 - Easy game reset functionality
 
-### 🖥️ Screenshots
-
-[You would typically insert a screenshot of your game here]
-
 ### 🚀 How to Play
 
 1. Clone the repository
@@ -50,18 +46,6 @@ A sleek and minimalist Tic Tac Toe game built with Python's Tkinter, offering a 
 - `button_click()`: Handles player moves
 - `reset_game()`: Resets game state
 
-### 🔧 Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/python-tic-tac-toe.git
-
-# Navigate to the project directory
-cd python-tic-tac-toe
-
-# Run the game
-python tic_tac_toe.py
-```
 
 ### 🤝 Contributing
 
