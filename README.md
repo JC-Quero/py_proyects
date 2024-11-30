@@ -25,16 +25,13 @@ A curated collection of innovative Python projects exploring various domains of 
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/python-projects.git
+git clone https://github.com/JC-Quero/py_projects.git
 
 # Navigate to project directory
-cd python-projects
-
-# Install dependencies (recommended)
-pip install -r requirements.txt
+cd py_projects
 
 
 📜 License
 MIT License | Open Source
 
-Built with ❤️ & ☕ by a Python Enthusiast
+Built with ❤️ & ☕ 
