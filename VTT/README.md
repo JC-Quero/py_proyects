@@ -1,5 +1,3 @@
-I'll create an elegant and comprehensive README for GitHub:
-
 # 🎙️ Text-to-Speech Desktop Application
 
 ## 🌟 Project Overview
