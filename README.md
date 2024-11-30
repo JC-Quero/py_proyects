@@ -30,7 +30,6 @@ git clone https://github.com/JC-Quero/py_projects.git
 # Navigate to project directory
 cd py_projects
 
-
 📜 License
 MIT License | Open Source
 
