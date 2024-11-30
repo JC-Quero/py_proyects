@@ -27,8 +27,8 @@ Before you begin, ensure you have the following installed:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/JQ-Quero/py_proyects/TTV.git
-cd myapp.py
+git clone https://github.com/JQ-Quero/py_proyects.git
+cd TTV
 ```
 
 2. Install required dependencies:
@@ -40,7 +40,7 @@ pip install gtts
 
 Run the application:
 ```bash
-python text_to_speech_app.py
+python myapp.py
 ```
 
 ### How to Use
