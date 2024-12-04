@@ -43,7 +43,7 @@ Run the application:
 python myapp.py
 ```
 
-### How to Use
+### How to Used
 
 1. Write or paste your text in the text area
 2. Click "Guardar Texto" to save the text
