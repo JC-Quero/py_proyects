@@ -10,7 +10,7 @@ from telegram.ext import Dispatcher, CommandHandler
 app = Flask(__name__)
 
 # Configurar el bot de Telegrama
-TELEGRAM_TOKEN = os.getenv("7923314678:AAEwI-qA3KcY2GZFoZKB82FeNvQCSM41mgM")  # ¡NO pongas el token directo aquí!
+TELEGRAM_TOKEN = os.getenv("TELEGRAM_TOKEN")  # ¡NO pongas el token directo aquí!
 bot = Bot(token=TELEGRAM_TOKEN)
 dispatcher = Dispatcher(bot, None, workers=0)
 
